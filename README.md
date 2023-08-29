@@ -1,6 +1,6 @@
 # Proposal Perfection
 
-![No Defense Website](screenshot.png)
+![No Defense Website](proposal.png)
 
 Welcome to the "No" Defense Website! Are you tired of facing rejection in your proposals? Fret not, because within just an hour, I've wielded my developer superpowers in HTML, CSS, and JavaScript to craft a solution that guarantees you'll never hear a "No" again!
 
